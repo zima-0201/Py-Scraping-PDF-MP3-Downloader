@@ -1,6 +1,6 @@
 # Web Scraping and File Download Script
 
-T## Description
+## Description
 This Python script automates the process of logging into the "LieberLeichter" website, navigating through specified links, and downloading PDF and MP3 files from the associated pages. It is designed to simplify the retrieval of educational materials from the website.
 
 ## Features
