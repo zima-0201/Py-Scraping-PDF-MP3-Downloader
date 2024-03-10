@@ -3,6 +3,10 @@
 ## Description
 This Python script automates the process of logging into the "LieberLeichter" website, navigating through specified links, and downloading PDF and MP3 files from the associated pages. It is designed to simplify the retrieval of educational materials from the website.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Scraping-PDF-MP3-Downloader.png)](https://drive.google.com/file/d/1eJHEY_-FR-wwVOaV-_YZGTKIwPx72ayI/view?usp=drive_link)
+
 ## Features
 - **Automated Login:** The script uses a provided username and password to log in to the "LieberLeichter" website.
 - **Link Processing:** Specified links are traversed, and the associated pages are scraped for PDF and MP3 file links.
