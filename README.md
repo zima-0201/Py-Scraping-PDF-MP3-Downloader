@@ -5,7 +5,7 @@ This Python script automates the process of logging into the "LieberLeichter" we
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Scraping-PDF-MP3-Downloader.png)](https://drive.google.com/file/d/1eJHEY_-FR-wwVOaV-_YZGTKIwPx72ayI/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Scraping-PDF-MP3-Downloader.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Scraping-PDF-MP3-Downloader.mp4)
 
 ## Features
 - **Automated Login:** The script uses a provided username and password to log in to the "LieberLeichter" website.
